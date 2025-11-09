@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I enjoy code, keyboards and linux... and yeah that's about it. </h1>
+<h1 align="center">Hi, I enjoy hardware, keyboards and linux... and yeah that's about it. </h1>
 <h2 align="center">Info about me:</h2>
 <p align="center">
     <b> Name: </b> Storm <br/><br/>
